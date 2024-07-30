@@ -1,5 +1,8 @@
-## HYOEUN KIM 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20🥳&fontSize=50&animation=twinkling)
 
+# KIM HYOEUN 👋
+
+# Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 
 <!--
