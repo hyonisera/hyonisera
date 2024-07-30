@@ -8,9 +8,9 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonisera&layout=compact)
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonisera&layout=compact)
 
 <!--
 **hyonisera/hyonisera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
