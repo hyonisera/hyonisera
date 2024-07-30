@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center">KIM HYOEUN</h2>
 
-<h3 align="center">Stack</h3>
+<h3 align="center">📚 Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp
