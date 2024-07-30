@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyonisera&layout=compact"/>
