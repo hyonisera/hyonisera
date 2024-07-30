@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20🥳&fontSize=50&animation=twinkling)
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20🥳&fontSize=50&animation=twinkling"/>
+</h1>
 <h2 align="center">KIM HYOEUN</h2>
 
 <h3 align="center">Stack</h3>
@@ -8,10 +10,10 @@
   <img src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-00599C?style=flat&logo=express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyonisera&layout=compact)
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyonisera&layout=compact"/>
+</p>
 <!--
 **hyonisera/hyonisera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
