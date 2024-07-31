@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20👋&fontSize=50&animation=twinkling"/>
 </h1>
-<h2 align="center">KIM HYOEUN</h2>
 
 <h3 align="center">📚 Stack 📚</h3>
 <p align="center">
